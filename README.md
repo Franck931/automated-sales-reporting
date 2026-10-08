@@ -96,10 +96,3 @@ Ce projet permet de mettre en pratique plusieurs compétences recherchées dans 
 
 La solution permet de passer de données commerciales brutes à un reporting structuré et interactif, en combinant automatisation, contrôle de qualité, traitement des données et Business Intelligence.
 
-## 👤 Auteur
-
-**Franck KOM**
-
-Engineering Student — Information Systems Management
-
-Domaines d'intérêt : **Data Analysis • Business Analysis • Business Intelligence • Digital Transformation**
