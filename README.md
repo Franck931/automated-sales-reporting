@@ -73,11 +73,11 @@ Dashboard commercial
 
 ### Modèle Power BI
 
-![Power BI Model](Screenshots/Vue de Modele BI.png)
+![Power BI Model](Screenshots/Vue_de_Modele_BI.png)
 
 ### Dashboard Power BI
 
-![Power BI Dashboard](Screenshots/Dashboard final.png)
+![Power BI Dashboard](Screenshots/Dashboard_final.png)
 
 ## 🎯 Objectifs professionnels
 
